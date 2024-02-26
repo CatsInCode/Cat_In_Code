@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GorokhovSA</string>
+    <string name="IconError">Can not load an image</string>
+    <string name="PlainText">Texting here</string>
+    <string name="TextView">Text here is static</string>
+    <string name="Button">Tap Here</string>
+</resources>
